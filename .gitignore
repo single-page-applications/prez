@@ -1,0 +1,12 @@
+.idea/*
+MVStars/MVC/public/bower_components/*
+MVStars/MVP/public/bower_components/*
+MVStars/MVVM/public/bower_components/*
+MVStars/MVC/node_modules/*
+MVStars/MVP/node_modules/*
+MVStars/MVVM/node_modules/*
+slides/*
+books/public/bower_components/*
+books/node_modules/*
+
+

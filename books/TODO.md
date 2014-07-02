@@ -1,0 +1,3 @@
+- modifier un peu les styles
+- ajouter une home
+- ...
