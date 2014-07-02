@@ -5,7 +5,7 @@ MVStars/MVVM/public/bower_components/*
 MVStars/MVC/node_modules/*
 MVStars/MVP/node_modules/*
 MVStars/MVVM/node_modules/*
-slides/*
+slides/spa.key/*
 books/public/bower_components/*
 books/node_modules/*
 
