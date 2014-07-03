@@ -1,5 +1,4 @@
 
-
 class Human {
   constructor (args) {
     this.id = args.id;

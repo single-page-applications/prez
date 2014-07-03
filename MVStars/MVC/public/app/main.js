@@ -8,13 +8,9 @@ class Application {
   constructor () {
 
     var humansColl = new HumansCollection();
-
     var humansCtrl = new HumansController(humansColl);
-
     var humansView = new HumansView(humansColl, humansCtrl);
-
     humansCtrl.initializeData();
-
   }
 
 }

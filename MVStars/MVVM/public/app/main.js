@@ -13,7 +13,6 @@ class Application {
     humansListViewModel.initializeData();
 
   }
-
 }
 
 

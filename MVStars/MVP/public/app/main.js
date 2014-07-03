@@ -14,7 +14,6 @@ class Application {
     humansPres.initializeData();
 
   }
-
 }
 
 

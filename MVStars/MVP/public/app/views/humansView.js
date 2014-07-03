@@ -1,10 +1,8 @@
 class HumansView { // this is an observer
 
   constructor () {
-
     this.list = document.querySelector("#humansList");
     this.button = document.querySelector("#btnAddHuman");
-    //this.createForm = document.querySelector("#humanForm");
   }
 
   render (data) {
