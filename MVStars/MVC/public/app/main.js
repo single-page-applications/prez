@@ -7,6 +7,8 @@ class Application {
 
   constructor () {
 
+    console.log("=== TADA ===");
+
     var humansColl = new HumansCollection();
     var humansCtrl = new HumansController(humansColl);
     var humansView = new HumansView(humansColl, humansCtrl);

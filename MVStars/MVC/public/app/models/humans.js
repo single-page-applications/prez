@@ -13,7 +13,6 @@ class Humans { // this is a subject
     this.observers.forEach(function(observer) {
       observer.update(context)
     })
-
   }
 
   add (human) {
